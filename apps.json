@@ -2,8 +2,8 @@
   "social": {
     "application": "Social",
     "android": {
-      "version": "1.0.2",
-      "build": "2"
+      "version": "1.0.1",
+      "build": "1"
     },
     "ios": {
       "version": "1.0.0",
