@@ -2,12 +2,12 @@
   "browser": {
     "application": "Browser",
     "android": {
-      "version": "1.0.4",
-      "build": "4"
+      "version": "1.0.3",
+      "build": "3"
     },
     "ios": {
-      "version": "1.0.0",
-      "build": "1"
+      "version": "1.0.2",
+      "build": "2"
     }
   },
   "social": {
