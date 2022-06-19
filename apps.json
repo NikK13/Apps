@@ -1,24 +1,13 @@
 {
-  "browser": {
-    "application": "Browser",
-    "android": {
-      "version": "1.0.3",
-      "build": "3"
-    },
-    "ios": {
-      "version": "1.0.5",
-      "build": "5"
-    }
-  },
   "social": {
     "application": "Social",
     "android": {
-      "version": "1.0.0",
-      "build": "1"
+      "version": "1.0.2",
+      "build": "2"
     },
     "ios": {
       "version": "1.0.0",
-      "build": "1"
+      "build": "0"
     }
   }
 }
