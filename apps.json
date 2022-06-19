@@ -1,0 +1,24 @@
+{
+  "browser": {
+    "application": "Browser",
+    "android": {
+      "version": "1.0.0",
+      "build": "1"
+    },
+    "ios": {
+      "version": "1.0.0",
+      "build": "1"
+    }
+  },
+  "social": {
+    "application": "Social",
+    "android": {
+      "version": "1.0.0",
+      "build": "1"
+    },
+    "ios": {
+      "version": "1.0.0",
+      "build": "1"
+    }
+  }
+}
